@@ -1,0 +1,1 @@
+Save BERT model and configuration files here or get pretrained from here https://huggingface.co/bert-base-uncased
